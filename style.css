@@ -3,7 +3,7 @@ body {
     cursive;
   font-family: 'Righteous',
     cursive;
-  background-color: #abdbe3
+  background-color: #abdbe3;
 }
 
 #sliders {
@@ -56,6 +56,11 @@ img {
   border-radius: 50%;
   cursor: pointer;
   margin: 0 3px;
+}
+
+#dColor {
+  background-color: #abdbe3;
+
 }
 
 .main {
